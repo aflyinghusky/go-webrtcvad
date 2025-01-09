@@ -88,7 +88,7 @@ static const int16_t kGlobalThresholdAGG[3] = { 285, 260, 285 };
 static const int16_t kOverHangMax1VAG[3] = { 6, 3, 2 };
 static const int16_t kOverHangMax2VAG[3] = { 9, 5, 3 };
 static const int16_t kLocalThresholdVAG[3] = { 94, 94, 94 };
-static const int16_t kGlobalThresholdVAG[3] = { 1110, 1060, 1110 };
+static const int16_t kGlobalThresholdVAG[3] = { 1115, 1070, 1115 };
 
 // Calculates the weighted average w.r.t. number of Gaussians. The |data| are
 // updated with an |offset| before averaging.
